@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+Laser Cutter is oneof the most helpful machines in FABLAB. Using one can cutt any material accordind to his design. In this one uses laser to cut the shapes. We were able to make many models with this machine like the ones given below.
 
-You can use the [editor on GitHub](https://github.com/arjunhari2704/LASER-PRINTING/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### MACHINE DETAILS
+**Epilog Zing Laser Series**
 
-```markdown
-Syntax highlighted code block
+The Epilog Zing Laser Starter Series is Epilog's small format, high-quality engraving line. Perfect for everything from home use to starting a business, the Epilog Zing Laser features high-quality engraving, at the low cost for which you're looking. The Epilog Zing is a great choice with its excellent engraving quality and low price.It is 100% designed, engineered and built in the USA!
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmYTbB-6AIqShJ98JyQQ0cjJ6it1VbcqAtbRZA00dyair5k7u)
 
-- Bulleted
-- List
+### STEPS INVOLVED
+- STEP 1 : Design the required material in Rhino.
+- STEP 2 : The required material is kept and placed on the platform accordingly.
+- STEP 3 : The print command is given from the computer.
+- STEP 4 : The adjustment is made on the printer control. the laser head is placed in the required region.
+- STEP 5 : The cutter required power for the purpose is set. Also one can set the required path for the printer to cut.
+- STEP 6 : When the above steps are completed then the lid is closed and the "GO" button is pressed.
+- STEP 7 : Take the work piece when the laser cutter completes it's operation
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arjunhari2704/LASER-PRINTING/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_**CAUTION**_:
+1. One should note that the vaccum pump is "ON".
+2. One should always keep an eye on the printer during operation. As wrong power when set can led to catching of fire esp. in case of cardboard.
+[ <p align= "right">Go to HOMEPAGE </p> ](https://arjunhari2704.github.io/) 
